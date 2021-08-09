@@ -1,5 +1,9 @@
 # Design-and-Implementation-of-UAV-Group-Network-Management-System
 
+## 项目设计详情
+
+参见个人博客
+
 ## 文件结构
 
 ![structure](https://gitee.com/imbois/blogimg/raw/master/IMG/20210809022229.png)
